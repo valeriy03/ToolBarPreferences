@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ToolBarPreferences</string>
+    <string name="action_add">Añadir</string>
+    <string name="action_edit">Opciones</string>
+    <string name="action_help">Ayuda</string>
+    <string name="action_exit">Salir</string>
+    <string name="key_user">usuario</string>
+    <string name="title_user">usuario que ha abierto</string>
+    <string name="summary_user">usuario</string>
+    <string name="key_password">contraseña</string>
+    <string name="title_password">contraseña</string>
+    <string name="summary_password">contraseña</string>
+</resources>

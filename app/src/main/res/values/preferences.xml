@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_account">Cuenta</string>
+    <string name="summary_account">Privacidad, seguridad, cambiar número</string>
+
+    <string name="title_category_notification">Notificaciones</string>
+
+
+    <string name="key_notification">notification</string>
+    <string name="title_notification">Tonos de conversación</string>
+    <string name="summary_notification">Reproducir sonidos para los mensajes entrantes y salientes</string>
+</resources>
